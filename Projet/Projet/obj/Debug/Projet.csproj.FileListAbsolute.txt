@@ -1,0 +1,29 @@
+c:\users\alexandre\documents\visual studio 2015\Projects\Projet\Projet\bin\Debug\Projet.exe.config
+c:\users\alexandre\documents\visual studio 2015\Projects\Projet\Projet\bin\Debug\Projet.exe
+c:\users\alexandre\documents\visual studio 2015\Projects\Projet\Projet\bin\Debug\Projet.pdb
+c:\users\alexandre\documents\visual studio 2015\Projects\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+c:\users\alexandre\documents\visual studio 2015\Projects\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+c:\users\alexandre\documents\visual studio 2015\Projects\Projet\Projet\obj\Debug\Projet.Window.resources
+c:\users\alexandre\documents\visual studio 2015\Projects\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+c:\users\alexandre\documents\visual studio 2015\Projects\Projet\Projet\obj\Debug\Projet.exe
+c:\users\alexandre\documents\visual studio 2015\Projects\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Alexandre\documents\visual studio 2015\Projects\Projet\Projet\bin\Debug\Resources\Covers\ANewHope.png
+C:\Users\Alexandre\documents\visual studio 2015\Projects\Projet\Projet\obj\Debug\Projet.MovieDisplayWindow.resources
+C:\Users\Alexandre\documents\visual studio 2015\Projects\Projet\Projet\bin\Debug\Resources\Covers\NoCover.png
+C:\Users\Alexandre\Desktop\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Alexandre\Desktop\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Alexandre\Desktop\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Alexandre\Desktop\Projet\Projet\bin\Debug\Resources\Covers\ANewHope.png
+C:\Users\Alexandre\Desktop\Projet\Projet\bin\Debug\Resources\Covers\NoCover.png
+C:\Users\Alexandre\Desktop\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Alexandre\Desktop\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Alexandre\Desktop\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Projet\Projet\obj\Debug\Projet.MovieDisplayWindow.resources
+C:\Users\Alexandre\Desktop\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Alexandre\Desktop\Projet\Projet\obj\Debug\Projet.MainWindow.resources
+C:\Users\Alexandre\Desktop\Projet\Projet\obj\Debug\Projet.DialogWindow.resources
+C:\Users\Alexandre\Desktop\Projet\Projet\obj\Debug\Projet.DeleteMovieWindow.resources
+C:\Users\Alexandre\Desktop\Projet\Projet\bin\Debug\Resources\Readme.html
+C:\Users\Alexandre\Desktop\Projet\Projet\obj\Debug\Projet.HelpWebBrowser.resources
+C:\Users\Alexandre\Desktop\Projet\Projet\bin\Debug\Resources\Movie.ico

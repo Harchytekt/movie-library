@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Aide | Projet</title>
+    <style>
+    /* unvisited link */
+    a:link {
+      color: #42B2C1;
+    }
+    /* visited link */
+    a:visited {
+      color: green;
+    }
+    /* mouse over link */
+    a:hover {
+      color: #1F4578;
+    }
+    /* selected link */
+    a:active {
+      color: #0DC225;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="main">
+      <h1><a name="top">Aide</a></h1>
+      <ul>
+        <li><a href="#start">Démarrage</a></li>
+          <ul>
+            <li><a href="#first">Premier cas</a></li>
+            <li><a href="#second">Deuxième cas</a></li>
+            <li><a href="#third">Troisième cas</a></li>
+          </ul>
+        <li><a href="#dispModMov">Afficher et modifier les films</a></li>
+        <ul>
+          <li><a href="#displayMovie">Afficher un film</a></li>
+          <li><a href="#modifMovie">Modifier un film</a></li>
+        </ul>
+        <li><a href="#addDelMov">Ajouter ou supprimer des films</a></li>
+          <ul>
+            <li><a href="#addMovie">Ajouter un film</a></li>
+            <li><a href="#delMovies">Supprimer plusieurs films</a></li>
+            <li><a href="#delMovie">Supprimer un film</a></li>
+          </ul>
+        <li><a href="#createBib">Créer une bibliothèque</a></li>
+        <li><a href="#reset">Réinitialiser</a></li>
+        <li><a href="#delBib">Supprimer une bibliothèque</a></li>
+        <li><a href="#search">Recherche</a></li>
+        <li><a href="#shortcuts">Raccourcis</a></li>
+      </ul>
+    </div>
+    <div id="body">
+      <h2><a name="start">Démarrage</a></h2>
+        <h3><a name="first">Premier cas</a></h3>
+          <p>
+            Il n'existe aucun fichier de sauvegarde. <br>
+            L'utilisateur est invité à rentrer un nom pour sa
+            bibliothèque de films. <br> Ce nom ne doit ni être vide,
+            ni contenir de points. <br>
+            Après cela, l'utilisateur peut clicker sur le bouton 'OK'. <br>
+            <a href="#top">Retour vers le haut</a>
+          </p>
+        <h3><a name="second">Deuxième cas</a></h3>
+          <p>
+            Il existe déjà un fichier de sauvegarde. <br>
+            Le programme lance la bibliothèque sauvegardée,
+            l'utilisateur n'a rien à faire. <br>
+            <a href="#top">Retour vers le haut</a>
+          </p>
+        <h3><a name="third">Troisième cas</a></h3>
+          <p>
+            Il existe plus d'un fichier de sauvegarde. <br>
+            L'utilisateur est invité à choisir une bibliothèque
+            parmi la liste proposée. <br>
+            Après cela, l'utilisateur peut clicker sur le bouton 'OK'. <br>
+            <a href="#top">Retour vers le haut</a>
+          </p>
+      <h2><a name="dispModMov">Afficher et modifier les films</a></h2>
+        <h3><a name="displayMovie">Afficher un film</a></h3>
+          <p>
+            Pour afficher un film, il suffit à l'utilisateur
+            de cliquer sur la jaquette du film choisi. <br>
+            Une fois cela fait, les informations connues sont affichées. <br>
+            Il suffit de fermer la nouvelle fenêtre pour retourner à la
+            bibliothèque. <br>
+            <a href="#top">Retour vers le haut</a>
+          </p>
+        <h3><a name="modifMovie">Modifier un film</a></h3>
+          <p>
+            L'utilisateur doit afficher les informations du film à modifier. <br>
+            Ensuite, il doit cliquer sur le bouton 'Modifier' et mettre <br>
+            les informations à jour. <br>
+            Une fois les modifications terminées, l'utilisateur peut quitter la fenêtre en cliquant
+            <br> sur le bouton 'Sauvegarder'. Les modifications seront enregistrées dans le <br>
+            fichier de sauvegarde. <br>
+            <a href="#top">Retour vers le haut</a>
+          </p>
+      <h2><a name="addDelMov">Ajouter ou supprimer des films</a></h2>
+        <h3><a name="addMovie">Ajouter un film</a></h3>
+          <p>
+            Premièrement, l'utilisateur doit activer le bouton 'Modifier' afin d'afficher <br>
+            les boutons 'Ajouter' et 'Supprimer'. <br>
+            Maintenant, l'utilisateur peut appuyer sur le bouton 'Ajouter'. <br>
+            La fenêtre d'initialisation du film s'afficher et l'utilisateur peut
+            entrer les informations du film. <br>
+            Une fois le film initialisé, l'utilisateur peut quitter la fenêtre en cliquant
+            <br> sur le bouton 'Sauvegarder'. Le film sera enregistré dans le fichier de sauvegarde. <br>
+            Il est à noter que les films se trient automatiquement par date. <br>
+            <a href="#top">Retour vers le haut</a>
+          </p>
+        <h3><a name="delMovies">Supprimer des films</a></h3>
+          <p>
+            Après avoir activé le bouton 'Modifier', l'utilisateur peut appuyer sur le bouton 'Supprimer'. <br>
+            Une nouvelle fenêtre s'ouvre, contenant une liste des films de la bibliothèque. <br>
+            Une fois le ou les film(s) à supprimer choisi(s), l'utilisateur est invité <br>
+            de cliquer sur le bouton 'OK'. La fenêtre se fermera et les films seront supprimés <br>
+            ainsi que toutes leurs données. <br>
+            <a href="#top">Retour vers le haut</a>
+          </p>
+        <h3><a name="delMovie">Supprimer un film</a></h3>
+          <p>
+            L'utilisateur peut, soit passer par la méthode longue (voir point précédent), <br>
+            soit par la version courte. <br>
+            Il suffit d'effectuer un clic droit sur le film à supprimer. <br>
+            Le film ainsi que toutes ses données seront supprimées. <br>
+            <a href="#top">Retour vers le haut</a>
+          </p>
+      <h2><a name="createBib">Créer une bibliothèque</a></h2>
+        <p>
+          Pour créer une nouvelle bibliothèque, l'utilisateur peut cliquer sur le bouton <br>
+          'Créer bibliothèque' qui fermera la fenêtre courante et ouvrira une boîte de dialogue <br>
+          l'invitant à entrer un nom non vide et ne contenant pas de point. <br>
+          Une fois le nom choisi et le bouton 'OK' déclenché, la bibliothèque est créée et affichée. <br>
+          <a href="#top">Retour vers le haut</a>
+        </p>
+      <h2><a name="reset">Réinitialiser</a></h2>
+        <p>
+          Il suffit à l'utilisateur d'appuyer sur le bouton 'Réinitialiser' et la bibliothèque <br>
+          courante sera immédiatement réinitialisée. <br>
+          <a href="#top">Retour vers le haut</a>
+        </p>
+      <h2><a name="delBib">Supprimer une bibliothèque</a></h2>
+        <p>
+          L'utilisateur n'a qu'à appuyer sur le bouton "Supprimer bibliothèque", et la bibliothèque <br>
+          courante sera supprimée. <br>
+          La fenêtre se fermera et le programme se relancera. <br>
+          <a href="#top">Retour vers le haut</a>
+        </p>
+      <h2><a name="search">Recherche</a></h2>
+        <p>
+          Il suffit à l'utilisateur de commencer à écrire dans la barre de recherche, <br>
+          et les films contenant le texte entré s'afficheront automatiquement. <br>
+          Pour retrouver la vue normale, il suffit d'effacer le texte entré. <br>
+          <a href="#top">Retour vers le haut</a>
+        <h2><a name="shortcuts">Raccourcis</a></h2>
+          <p>
+            Il existe plusieurs raccourcis dans la fenêtre principale. <br>
+            Pour activer les boutons 'Modifier', 'Réinitialiser', 'Ajouter' et 'Supprimer', <br>
+            l'utilisateur peut exécuter ces raccourcis: <strong>alt + m, alt + r, alt + a et alt + s</strong>. <br>
+            Il reste un autre raccourcis: <strong>alt + h</strong> pour ouvrir l'aide. <br>
+            <a href="#top">Retour vers le haut</a>
+        </p>
+    </div>
+  </body>
+</html>
